@@ -20,7 +20,7 @@ This project implements a stock price prediction model using **Long Short-Term M
 ## 🛠️ Installation
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-username/stock-price-prediction.git
+git clone https://github.com/ns-0437/stock-price-prediction.git
 cd stock-price-prediction
 ```
 
