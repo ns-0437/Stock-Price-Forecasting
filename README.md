@@ -57,8 +57,6 @@ Trend Direction Accuracy: 74.05%
 - Fine-tune hyperparameters (LSTM units, learning rate, dropout rate).
 - Train on **larger datasets** to improve generalization.
 
-## 📜 License
-This project is open-source and available under the **MIT License**.
 
 ---
 📧 **Author:** Navin Kumar
